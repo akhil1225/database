@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Sanjana Sharma Manthripragada",
+      "email": "sanjanaakhilendra@gmail.com",
+      "password": "i_miss_morphy_3000"
+    },
+    {
+      "id": 2,
+      "name": "Sanjana",
+      "email": "akhilendra@gmail.com",
+      "password": "i_miss_inki_3000"
+    },
+    {
+      "id": 3,
+      "name": "akhilendra",
+      "email": "akhilendra1225@gmail.com",
+      "password": "i_miss_pinki_3000"
+    },
+    {
+      "id": 4,
+      "name": "MorphyMeetsTom",
+      "email": "tomIsGood@gmail.com",
+      "password": "i_love_ponky_3000"
+    }
+  ]
+}
